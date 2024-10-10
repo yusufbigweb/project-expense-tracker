@@ -9,7 +9,7 @@ A simple web application to track personal expenses and manage budgets. The proj
 **Tech Stack:** HTML, CSS, JavaScript
 
 **Previwe Web**
-Web[https://yusufbigweb.github.io/project-expense-tracker/]
+ :[https://yusufbigweb.github.io/project-expense-tracker/]
 
 **Key Features:**
 - Responsive UI for all devices
