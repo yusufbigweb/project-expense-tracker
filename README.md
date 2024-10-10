@@ -2,12 +2,18 @@
 
 A simple web application to track personal expenses and manage budgets. The project allows users to:
 
-- Add new expenses with details like date, amount, and description.
-- View a summary of total expenses.
-- Edit or delete expense entries.
+- Add new expenses, amount, and description.
+- View a summary expenses.
 - Track spending by category.
 
 **Tech Stack:** HTML, CSS, JavaScript
+
+**Previwe Web**
+
+`
+<a hfref="https://yusufbigweb.github.io/project-expense-tracker/"> Expense Tracker</a>
+
+`
 
 **Key Features:**
 - Responsive UI for all devices
